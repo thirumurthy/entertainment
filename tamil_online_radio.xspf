@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://ourfile.info/akaram.mp3</location>
+			<title>Akaram Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.96.148.226:6176/;stream.mp3</location>
+			<title>IBC Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://69.46.24.226:7188/stream</location>
+			<title>American Tamil Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s6.voscast.com:10014/;stream.mp3</location>
+			<title>i-tamil media</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://media1.lankasri.fm:8032/</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://37.187.79.93:9350/stream</location>
+			<title>VmusiQ.Com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://prclive1.listenon.in:9948/;</location>
+			<title>Radio City Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://91.121.165.41:9035/stream.mp3</location>
+			<title>no name</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio</location>
+			<title>CMR Tamil HD - LQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.178.123.8:8402/;stream.mp3</location>
+			<title>Varnam FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.4.210:3596/;</location>
+			<title>TamilSun FM + Hi-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5984.cloudrad.io:8032/;stream/1</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming.radio.co/s0cfc93915/listen</location>
+			<title>US Tamil FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://174.142.215.249:9966/;</location>
+			<title>EAST FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.170.8:5756/;</location>
+			<title>ABINAYAMFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.chellam.fm:5012/stream</location>
+			<title>Chellam FM - Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://144.217.195.24:8140/stream</location>
+			<title>gvc</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://usa3-vn.mixstream.net:8852/;stream.mp3</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s2.voscast.com:9370/;</location>
+			<title>ilctamil.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://212.83.138.48:8324/;</location>
+			<title>Shangrla Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://195.154.217.103:8175/;stream.mp3</location>
+			<title>A9RADIO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://usa3-vn.mixstream.net:8852/;stream.mp3</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ourfile.info/akaram.mp3</location>
+			<title>Akaram Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.96.148.226:6176/;stream.mp3</location>
+			<title>IBC Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://69.46.24.226:7188/stream</location>
+			<title>American Tamil Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s6.voscast.com:10014/;stream.mp3</location>
+			<title>i-tamil media</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://media1.lankasri.fm:8032/</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://37.187.79.93:9350/stream</location>
+			<title>VmusiQ.Com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://prclive1.listenon.in:9948/;</location>
+			<title>Radio City Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://91.121.165.41:9035/stream.mp3</location>
+			<title>no name</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio</location>
+			<title>CMR Tamil HD - LQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.178.123.8:8402/;stream.mp3</location>
+			<title>Varnam FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.4.210:3596/;</location>
+			<title>TamilSun FM + Hi-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5984.cloudrad.io:8032/;stream/1</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming.radio.co/s0cfc93915/listen</location>
+			<title>US Tamil FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://174.142.215.249:9966/;</location>
+			<title>EAST FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.170.8:5756/;</location>
+			<title>ABINAYAMFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.chellam.fm:5012/stream</location>
+			<title>Chellam FM - Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://144.217.195.24:8140/stream</location>
+			<title>gvc</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://usa3-vn.mixstream.net:8852/;stream.mp3</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s2.voscast.com:9370/;</location>
+			<title>ilctamil.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://212.83.138.48:8324/;</location>
+			<title>Shangrla Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://195.154.217.103:8175/;stream.mp3</location>
+			<title>A9RADIO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://199.175.48.216:8080/;</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s2.voscast.com:9370/;</location>
+			<title>ilctamil.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ourfile.info/akaram.mp3</location>
+			<title>Akaram Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.96.148.226:6176/;stream.mp3</location>
+			<title>IBC Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://69.46.24.226:7188/stream</location>
+			<title>American Tamil Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s6.voscast.com:10014/;stream.mp3</location>
+			<title>i-tamil media</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://media1.lankasri.fm:8032/</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://37.187.79.93:9350/stream</location>
+			<title>VmusiQ.Com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://prclive1.listenon.in:9948/;</location>
+			<title>Radio City Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://91.121.165.41:9035/stream.mp3</location>
+			<title>no name</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio</location>
+			<title>CMR Tamil HD - LQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.178.123.8:8402/;stream.mp3</location>
+			<title>Varnam FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.4.210:3596/;</location>
+			<title>TamilSun FM + Hi-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5984.cloudrad.io:8032/;stream/1</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming.radio.co/s0cfc93915/listen</location>
+			<title>US Tamil FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://174.142.215.249:9966/;</location>
+			<title>EAST FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.170.8:5756/;</location>
+			<title>ABINAYAMFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.chellam.fm:5012/stream</location>
+			<title>Chellam FM - Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://144.217.195.24:8140/stream</location>
+			<title>gvc</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://usa3-vn.mixstream.net:8852/;stream.mp3</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s2.voscast.com:9370/;</location>
+			<title>ilctamil.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://212.83.138.48:8324/;</location>
+			<title>Shangrla Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://195.154.217.103:8175/;stream.mp3</location>
+			<title>A9RADIO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://usa3-vn.mixstream.net:8852/;stream.mp3</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ourfile.info/akaram.mp3</location>
+			<title>Akaram Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.96.148.226:6176/;stream.mp3</location>
+			<title>IBC Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://69.46.24.226:7188/stream</location>
+			<title>American Tamil Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s6.voscast.com:10014/;stream.mp3</location>
+			<title>i-tamil media</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://media1.lankasri.fm:8032/</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://37.187.79.93:9350/stream</location>
+			<title>VmusiQ.Com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://prclive1.listenon.in:9948/;</location>
+			<title>Radio City Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://91.121.165.41:9035/stream.mp3</location>
+			<title>no name</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio</location>
+			<title>CMR Tamil HD - LQ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.178.123.8:8402/;stream.mp3</location>
+			<title>Varnam FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.4.210:3596/;</location>
+			<title>TamilSun FM + Hi-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5984.cloudrad.io:8032/;stream/1</location>
+			<title>Lankasri FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://streaming.radio.co/s0cfc93915/listen</location>
+			<title>US Tamil FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://174.142.215.249:9966/;</location>
+			<title>EAST FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.99.170.8:5756/;</location>
+			<title>ABINAYAMFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.chellam.fm:5012/stream</location>
+			<title>Chellam FM - Tamil</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://144.217.195.24:8140/stream</location>
+			<title>gvc</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ca4.rcast.net:8060/;stream.mp3</location>
+			<title>captal_test</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://usa3-vn.mixstream.net:8852/;stream.mp3</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s2.voscast.com:9370/;</location>
+			<title>ilctamil.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://212.83.138.48:8324/;</location>
+			<title>Shangrla Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://195.154.217.103:8175/;stream.mp3</location>
+			<title>A9RADIO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://s1.voscast.com:9038/mountpoint3</location>
+			<title>GTBC Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://199.175.48.216:8080/;</location>
+			<title>TamilaruviFM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://astro4.rastream.com/osai</location>
+			<title>ilctamil.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://212.83.138.48:8324/;</location>
+			<title>Shangrla Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://167.114.131.90:8808/jeifm</location>
+			<title>Sevanthi.com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://sc1.streamingpulse.com:8084/stream</location>
+			<title>Kalasam.Com</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://220.247.227.6:8000/Tnsstream</location>
+			<title>Commercial Service</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://37.187.79.93:9116/;</location>
+			<title>ThenralWorldRadio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://zas1.ndx.co.za:8162/;listen.mp3</location>
+			<title>mzsouth</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://94.23.62.189:5250/;stream.mp3</location>
+			<title>GTR.FM - Gokulam Tamil Radio Canada</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://ctbcfmradio.primcast.com:4086/;</location>
+			<title>My Station name</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.27.66.225:8498/stream.mp3</location>
+			<title>CTR Stream</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://api.spreaker.com/listen/user/9791457/episode/latest/shoutcast.mp3</location>
+			<duration>628380</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://vtr24.com:8000/;</location>
+			<title>Vegam FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://192.184.9.158:8087/stream</location>
+			<title>timefm stream</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://103.16.47.70:9555/;</location>
+			<title>Tamil Hits</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5.135.165.204:8050/;</location>
+			<title>Muthamil HD Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5.135.154.91:4376/;</location>
+			<title>TSRLIVE Tamil Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://144.217.129.213:9950/stream64</location>
+			<title>Tamil Panpalai</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://proxima.shoutca.st:8528/;</location>
+			<title>IDHAYAM FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://176.31.120.92:9004/;stream.mp3</location>
+			<title>Mtr99.5fm Online</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://5.135.165.204:8050/;Live.mp3</location>
+			<title>Muthamil HD Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+	</extension>
+</playlist>

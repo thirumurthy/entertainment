@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://pl-ali.youku.com/playlist/m3u8?vid=XMTU4NjIyMzQ4NA&amp;type=mp4&amp;ups_client_netip=67c2f242&amp;utid=rMM1F1s5lEECAWfC8kI3sOuB&amp;ccode=0502&amp;psid=a9d14c0b3bd3029a4ccb40e90267168a&amp;app_ver=2.1.3&amp;duration=9516&amp;expire=18000&amp;drm_type=1&amp;drm_device=7&amp;play_ability=5376&amp;dyt=1&amp;btf=&amp;ups_ts=1589471354&amp;onOff=0&amp;encr=0&amp;ups_key=f439e2e7ae3e883e12e152c79c9265c7</location>
+			<title>Vaali Movie</title>
+			<duration>9516399</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
